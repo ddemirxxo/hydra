@@ -1,0 +1,49 @@
+{
+  "metadata" : {
+    "browser_name" : "Safari",
+    "browser_version" : "18.2",
+    "data_type" : "payment_cards",
+    "export_time_usec" : 1738744532437672,
+    "schema_version" : 1
+  },
+  "payment_cards" : [
+    {
+      "card_number" : "5163610234441663",
+      "card_name" : "Dila Demir’s Mastercard",
+      "cardholder_name" : "Dila Demir",
+      "card_expiration_month" : 10,
+      "card_expiration_year" : 2028,
+      "card_last_used_time_usec" : 1738089150298561
+    },
+    {
+      "card_number" : "5275285858153988",
+      "card_name" : "Mastercard (2)",
+      "card_expiration_month" : 12,
+      "card_expiration_year" : 2027,
+      "card_last_used_time_usec" : 1737687001411134
+    },
+    {
+      "card_number" : "5163404283937411",
+      "card_name" : "Mastercard",
+      "card_expiration_month" : 4,
+      "card_expiration_year" : 2030,
+      "card_last_used_time_usec" : 1737004623097833.2
+    },
+    {
+      "card_number" : "5163610224772606",
+      "card_name" : "D Demir’s Westpac Mastercard",
+      "cardholder_name" : "D Demir",
+      "card_expiration_month" : 10,
+      "card_expiration_year" : 2028,
+      "card_last_used_time_usec" : 1737004554052410.2
+    },
+    {
+      "card_number" : "5163610247054057",
+      "card_name" : "D Demir’s Mastercard Westpac",
+      "cardholder_name" : "D Demir",
+      "card_expiration_month" : 10,
+      "card_expiration_year" : 2027,
+      "card_last_used_time_usec" : 1736958345755034
+    }
+  ]
+}
