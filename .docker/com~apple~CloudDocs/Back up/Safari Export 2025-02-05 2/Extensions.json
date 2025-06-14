@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "browser_name" : "Safari",
+    "browser_version" : "18.2",
+    "data_type" : "extensions",
+    "export_time_usec" : 1738744532440446,
+    "schema_version" : 1
+  },
+  "extensions" : [
+    {
+      "composed_identifier" : "org.adblockplus.AdblockPlusSafari.AdblockPlusSafariExtension (GRYYZR985A)",
+      "developer_name" : "Eyeo GmbH",
+      "display_name" : "Adblock Plus",
+      "marketplace_lookup" : {
+        "macos_app_bundle_identifier" : "org.adblockplus.adblockplussafarimac",
+        "macos_extension_bundle_identifier" : "org.adblockplus.adblockplussafarimac.AdblockPlusSafariContentBlocker",
+        "store_identifier" : "1028871868"
+      }
+    },
+    {
+      "composed_identifier" : "de.neptune.secureblock (N2A5H82T69)",
+      "developer_name" : "Sebastian Boehmel",
+      "display_name" : "Neptune",
+      "marketplace_lookup" : {
+        "store_identifier" : "1215653304"
+      }
+    },
+    {
+      "composed_identifier" : "com.smartblock.apps.Block-Trackers (3V9VDR3A43)",
+      "developer_name" : "SmartStudio Limited",
+      "display_name" : "AI Smart Block — Block Trackers",
+      "marketplace_lookup" : {
+        "store_identifier" : "6692627650"
+      }
+    },
+    {
+      "composed_identifier" : "com.redlimestone.wifiscannerapp.adBlocker (LMN96F5X2L)",
+      "developer_name" : "PENTALOBE LLP",
+      "display_name" : "Phone Security",
+      "marketplace_lookup" : {
+        "store_identifier" : "1533680988"
+      }
+    },
+    {
+      "composed_identifier" : "com.yourcompany.PPClient.safariextension (727K56WV67)",
+      "developer_name" : "PayPal, Inc.",
+      "display_name" : "PayPal Honey",
+      "marketplace_lookup" : {
+        "store_identifier" : "283646709"
+      }
+    },
+    {
+      "composed_identifier" : "com.getcardpointers.app.Safari-Extension (489M9V6472)",
+      "developer_name" : "CardPointers LLC",
+      "display_name" : "CardPointers",
+      "marketplace_lookup" : {
+        "store_identifier" : "1472875808"
+      }
+    },
+    {
+      "composed_identifier" : "wtf.riedel.one-sec.one-sec-Safari-Extension (52U6XAJSSF)",
+      "developer_name" : "riedel.wtf apps S.L.",
+      "display_name" : "one sec",
+      "marketplace_lookup" : {
+        "store_identifier" : "1532875441"
+      }
+    },
+    {
+      "composed_identifier" : "com.nodle.nodlecash.NodleCash-Extension (B923R5A4X7)",
+      "developer_name" : "Nodle",
+      "display_name" : "Nodle",
+      "marketplace_lookup" : {
+        "store_identifier" : "1480763553"
+      }
+    }
+  ]
+}
